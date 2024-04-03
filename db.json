@@ -1,0 +1,25 @@
+{
+    "bookings":[
+      {
+        "id":1,
+        "name":"Pramod",
+        "source":"Pune",
+        "destination":"Banglore",
+        "date":"01/03/2024"
+      },
+      {
+        "id":2,
+        "name":"Rohit",
+        "source":"Chennai",
+        "destination":"Banglore",
+        "date":"21/03/2024"
+      },
+      {
+        "id":3,
+        "name":"Virat",
+        "source":"Mumbai",
+        "destination":"Delhi",
+        "date":"01/05/2024"
+      }
+    ]
+  }
